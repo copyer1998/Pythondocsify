@@ -2,7 +2,7 @@
     * [Python3 介绍](/env.md)
     * [Python3 环境搭建](/envbuild.md)
     * [Python3 基础语法](/basics.md)
-    * [Python3 基本数据类型](env.md)
+    * [Python3 基本数据类型](datatype.md)
     * [Python3 解释器](env.md)
     * [Python3 注释](env.md)
     * [Python3 运算符](env.md)
